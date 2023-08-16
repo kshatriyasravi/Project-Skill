@@ -1,6 +1,0 @@
-hi this is a file, which i have created for git commands
-
-git add 
-git commit -m ""
-git push origin 
-
